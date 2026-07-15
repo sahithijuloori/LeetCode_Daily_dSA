@@ -5,14 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
