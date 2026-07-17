@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
