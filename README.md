@@ -73,5 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0191-number-of-1-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1310-xor-queries-of-a-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
