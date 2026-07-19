@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0136-single-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
