@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
