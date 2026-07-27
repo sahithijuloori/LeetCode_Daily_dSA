@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
