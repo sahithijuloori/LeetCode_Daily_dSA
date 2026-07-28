@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
