@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
