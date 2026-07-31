@@ -11,7 +11,7 @@ class Solution {
         l.sort((a,b) ->Integer.compare(b.getValue(),a.getValue()));
         for(int j=0;j<l.size();j++){
             int x=l.get(j).getValue();
-            if(j<8){
+            /*if(j<8){
                 sum+=x;
             }
             else if(j>=8 && j<16){
@@ -22,7 +22,8 @@ class Solution {
             }
             else{
                 sum+=(4*x);
-            }
+            }*/
+            sum+= (j/8 +1)*x;
         }
         return sum;
     }
