@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,10 +158,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
