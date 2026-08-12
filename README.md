@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
