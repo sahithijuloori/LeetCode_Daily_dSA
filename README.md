@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0476-number-complement) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1310-xor-queries-of-a-subarray) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
