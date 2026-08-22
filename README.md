@@ -226,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0203-remove-linked-list-elements) |
 ## Simulation
 |  |
