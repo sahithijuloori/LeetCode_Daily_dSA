@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
+        /*
         if(head.next==null){
             return head;
         }
@@ -27,5 +28,13 @@ class Solution {
             x--;
         }
         return b;
+        */
+        ListNode f=head;
+        ListNode s=head;
+        while(f!=null && f.next!=null){
+            f=f.next.next;
+            s=s.next;
+        }
+        return s;
     }
 }
