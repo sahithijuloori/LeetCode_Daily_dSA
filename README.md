@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
