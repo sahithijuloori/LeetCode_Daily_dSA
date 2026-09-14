@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0836-rectangle-overlap](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2485-find-the-pivot-integer](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2485-find-the-pivot-integer) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
