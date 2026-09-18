@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0643-maximum-average-subarray-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0476-number-complement) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -327,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
