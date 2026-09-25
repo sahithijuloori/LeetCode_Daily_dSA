@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
