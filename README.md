@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
@@ -352,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
