@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2090-k-radius-subarray-averages) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
