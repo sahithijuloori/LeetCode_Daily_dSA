@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
