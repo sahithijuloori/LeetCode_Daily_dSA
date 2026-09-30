@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2090-k-radius-subarray-averages) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0682-baseball-game) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -379,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
