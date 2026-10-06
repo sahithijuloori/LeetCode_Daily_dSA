@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0948-bag-of-tokens) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
