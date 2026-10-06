@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1004-max-consecutive-ones-iii) |
