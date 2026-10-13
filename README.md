@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
