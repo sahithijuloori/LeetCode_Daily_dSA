@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
