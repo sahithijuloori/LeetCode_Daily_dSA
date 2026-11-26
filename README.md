@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahithijuloori/LeetCode_Daily_dSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
